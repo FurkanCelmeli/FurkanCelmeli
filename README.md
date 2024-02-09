@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Tekno.gif" alt="Coding" width=200 height=200 align="right">
 
 - 🔭 I’m currently working on **C#**
 
