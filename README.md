@@ -1,4 +1,4 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+[![MasterHead]([https://www.canva.com/design/DAFuhYFStgI/IuyLkoWhLCF63dHSXIKEpw/edit](https://media.licdn.com/dms/image/D5616AQF8T7HIBnbU8Q/profile-displaybackgroundimage-shrink_350_1400/0/1694786090738?e=1712793600&v=beta&t=jHzDjws3SRmEYVGoy8d-dOHY6iufxINzGzlYm5m-P1A))
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
