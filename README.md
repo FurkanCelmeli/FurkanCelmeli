@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D5616AQF8T7HIBnbU8Q/profile-displaybackgroundimage-shrink_350_1400/0/1694786090738?e=1712793600&v=beta&t=jHzDjws3SRmEYVGoy8d-dOHY6iufxINzGzlYm5m-P1A)
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E11007&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> <br>
 <img src="https://komarev.com/ghpvc/?username=furkancelmeli&&style=plastics&&color=red" align="right"/> </p>
