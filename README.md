@@ -15,7 +15,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Cybersecurity**
 
 
 <h3 align="left">Connect with me:</h3>
